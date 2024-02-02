@@ -1,5 +1,5 @@
 import './Statistics.styled.css';
-import { getRandomColor } from 'components/utils/getRandomColor';
+import { getRandomColor } from 'utils/getRandomColor';
 
 const Statistics = ({ title, stats }) => {
   return (
